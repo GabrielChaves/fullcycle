@@ -7,3 +7,5 @@ Ao rodar a imagem deve ser apresentado a seguinte mensagem como resultado:  Code
 
 Passo 1: realizar o pull da imagem : docker pull gabrielchaves/codeeducation:latest
 Passo 2: sudo docker run --rm gabrielchaves/codeeducation:latest
+
+Imagem no dockerhub:  https://hub.docker.com/repository/docker/gabrielchaves/codeeducation
