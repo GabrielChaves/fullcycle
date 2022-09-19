@@ -1,6 +1,6 @@
 Desafio go - Full Cycle
 
-O desafio em consiste em gerar uma imagem go, publica-la no docker hub e disponibilizar para uso. 
+O desafio consiste em gerar uma imagem go, publica-la no docker hub e disponibilizar para uso. 
 A imagem deve conter menos de 2mb 
 
 Ao rodar a imagem deve ser apresentado a seguinte mensagem como resultado:  Code.education Rocks!
