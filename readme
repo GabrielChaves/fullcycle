@@ -1,0 +1,9 @@
+Desafio go - Full Cycle
+
+O desafio em consiste em gerar uma imagem go, publica-la no docker hub e disponibilizar para uso. 
+A imagem deve conter menos de 2mb 
+
+Ao rodar a imagem deve ser apresentado a seguinte mensagem como resultado:  Code.education Rocks!
+
+Passo 1: realizar o pull da imagem : docker pull gabrielchaves/codeeducation:latest
+Passo 2: sudo docker run --rm gabrielchaves/codeeducation:latest
